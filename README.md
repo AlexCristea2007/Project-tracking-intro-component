@@ -4,7 +4,7 @@ This repository contains the solution to the **Frontend Mentor - Project Trackin
 
 ## Demo
 
-![Project Screenshot](main/project-tracking-intro-component-master/images/illustration-devices.svg)
+![Project Screenshot](project-tracking-intro-component-master/images/illustration-devices.svg)
 
 ## Features
 
